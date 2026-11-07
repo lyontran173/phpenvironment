@@ -7,6 +7,11 @@
   <title>PHP Fundamentals</title>
   <?php include_once("../includes/styles.php") ?>
 </head>
+<!--
+  AUTHOR: Lyon Tran
+  DATE: November 6th, 2026
+  PURPOSE: PHP Exercise 1
+-->
 
 <body>
   <h1 class="blue">Intro to PHP</h1>
